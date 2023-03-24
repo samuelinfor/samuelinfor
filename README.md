@@ -3,11 +3,11 @@
 <h4>Estudante de Engenharia de Software, Atualmente estudando JAVA pelo projeto da Alura em parceria com a Oracle</h4>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/samueldevjr)
-![Linkerdir](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Linkerdir](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samueldeveloperjr/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelpersista@gmail.com)
 ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 <br>![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelinfor&show_icons=true&theme=dark&count_private=true)
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelinfor&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelinfor&layout=light&langs_count=7&theme=cobalt"/>
 
 ## Tecnologias que eu uso no meu dia
 
