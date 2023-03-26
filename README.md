@@ -1,3 +1,6 @@
+</div>
+<div style="display: inline_block"><br>
+
 ## Olá! Eu sou o Samuel Ferreira 🖐️
 
 <h4>Estudante de Engenharia de Software, Atualmente estudando JAVA pelo projeto da Alura em parceria com a Oracle</h4>
@@ -23,7 +26,7 @@
                         
 </div>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia.
 
 -
 -
