@@ -6,7 +6,7 @@
 	</tr>
  	<tr>
 		<td>
-			<a href="https://github.com/samuelinfor/blob/main/README-BR.md">:brazil: Português</a>
+			<a href="[https://github.com/samuelinfor/blob/main/README-BR.md](https://github.com/samuelinfor/samuelinfor/blob/c7162975a42d5583b3f73e1a5e2d0249c3bd6006/README.md)">:brazil: Português</a>
 		</td>
 	</tr>
 </table>
