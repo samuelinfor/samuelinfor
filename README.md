@@ -17,7 +17,7 @@
 	</div>
 	<section align='left'>
 		
-		<img src=![Profile views](https://komarev.com/ghpvc/?username=samuelinfor&color=brightgreen)
+		![](https://komarev.com/ghpvc/?username=samuelinfor&color=green)
  />
 		<img src="https://img.shields.io/github/stars/%2CCOLLABORATOR&color=ff33ff&style=flat" alt="Stars"/>
 	</section>	 
