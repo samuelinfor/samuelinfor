@@ -16,6 +16,7 @@
 		<img src="https://readme-typing-svg.herokuapp.com/?color=ff1659&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Dev_;Be+Welcome!+:%29_" />
 	</div>
 	<section align='left'>
+		![](https://komarev.com/ghpvc/?username=samuelinfor)
 		<img src=![Profile views](https://komarev.com/ghpvc/?username=seu-nome-de-usuario&color=brightgreen)
  />
 		<img src="https://img.shields.io/github/stars/%2CCOLLABORATOR&color=ff33ff&style=flat" alt="Stars"/>
