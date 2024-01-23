@@ -58,6 +58,7 @@ Desde então, tenho mergulhado diariamente nesse vasto mundo, buscando aprimorar
     <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=&labelColor=0D1117"/>
     <img src="https://img.shields.io/badge/-Debian-0D1117?style=for-the-badge&logo=debian&labelColor=0D1117"/>
     <img src="https://img.shields.io/badge/-Visual Studio Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117"/>
+     <img src="https://img.shields.io/badge/IntelliJIDEA-0D1117.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&&logoColor=&labelColor=0D1117"/>
         <img src="https://img.shields.io/badge/figma-0D1117.svg?style=for-the-badge&logo=figma&logoColor=%2361DAFB"/>
      <img src="https://img.shields.io/badge/Notion-0D1117.svg?style=for-the-badge&logo=notion&logoColor=%2361DAFB"/>
