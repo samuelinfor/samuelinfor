@@ -47,7 +47,7 @@ Desde então, tenho mergulhado diariamente nesse vasto mundo, buscando aprimorar
     <img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117"/>
     <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=#adff2f" />
     <img src="https://img.shields.io/badge/JAVA Spring-0D1117?style=for-the-badge&logo=springboot&logoColor=#adff2f" />
-        <img src="https://img.shields.io/badge/tailwind-0D1117.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB"/>
+    <img src="![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)/>
    </td>
   </tr>
    <table/>
