@@ -64,7 +64,7 @@ Desde então, tenho mergulhado diariamente nesse vasto mundo, buscando aprimorar
         <img src="https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&&logoColor=&labelColor=0D1117"/>
     <img src="https://img.shields.io/badge/-vite-0D1117?style=for-the-badge&logo=vite&&logoColor=&labelColor=0D1117"/>
         <img src="https://img.shields.io/badge/figma-0D1117.svg?style=for-the-badge&logo=figma&logoColor=%2361DAFB"/>
-     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=%2361DAFB"/>
    </td>
   </tr>
    <table/>
