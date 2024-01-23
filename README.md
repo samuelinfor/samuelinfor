@@ -71,16 +71,3 @@ Desde então, tenho mergulhado diariamente nesse vasto mundo, buscando aprimorar
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=samuelinfor&layout=compact&hide_border=true&&theme=dracula"/>
  </section>
 </main> 
-<footer>
- <div name='Cobrinha'>
-  <table align='center'>
-     <tr>
-                              <td>
-                                   <img src="https://github.com/samuelinfor/samuelinfor/blob/output/github-contribution-grid-snake-dark.svg" width="100%" >
-                              </td>
-                        </tr>
-  </table>
- </div>
- </br>
- <img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&reversal=false&section=footer&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0"/>
-</footer>
