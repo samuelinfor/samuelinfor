@@ -43,11 +43,10 @@ Desde então, tenho mergulhado diariamente nesse vasto mundo, buscando aprimorar
     <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=&labelColor=0D1117"/>
     <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"/>
     <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=&labelColor=0D1117"/>
-   <img src="https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logoColor=1572B6&labelColor=0D1117"/>
+     <img src="https://img.shields.io/badge/java-%0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117"/>
     <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=#adff2f" />
     <img src="https://img.shields.io/badge/JAVA Spring-0D1117?style=for-the-badge&logo=springboot&logoColor=#adff2f" />
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
    </td>
   </tr>
    <table/>
