@@ -17,7 +17,7 @@
 	</div>
 	<section align='left'>
 		<img src="https://komarev.com/ghpvc/?username=devsallein&label=Profile%20views&color=ff33ff&style=flat" alt="Followers" />
-		<img src="https://img.shields.io/github/stars/DevSaLLein?affiliations=OWNER%2CCOLLABORATOR&color=ff33ff&style=flat" alt="Stars"/>
+		<img src="https://img.shields.io/github/stars/%2CCOLLABORATOR&color=ff33ff&style=flat" alt="Stars"/>
 	</section>	 
 </header>
 <main>
