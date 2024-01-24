@@ -44,6 +44,7 @@ Desde então, tenho mergulhado diariamente nesse vasto mundo, buscando aprimorar
     <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"/>
     <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=&labelColor=0D1117"/>
     <img src="https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/any_text-you_like-blue?logo=openjdk&logoColor=lightgreen" /> 
     <img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117"/>
     <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=#adff2f" />
     <img src="https://img.shields.io/badge/angular-0D1117.svg?style=for-the-badge&logo=angular&logoColor=red" />
