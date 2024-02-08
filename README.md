@@ -28,7 +28,7 @@
     <p>
 Olá, o meu nome é Samuel e tenho 29 anos. A minha carreira na área da tecnologia começou cedo, pois tive um contato significativo com este universo desde a infância jogando video gamer, formatando computadores de  amigos e tentando ajeitar aparelhos eletronicos em casa. Sempre fui fascinado por coisas modernas como celulares e computadores. Foi assim que descobri a minha paixão pela informática e, mais tarde, pela programação.
 
-Desde então, tenho mergulhado diariamente nesse vasto mundo, buscando aprimorar meus conhecimentos e me tornar um profissional da área. Estou à procura de oportunidades para iniciar o meu percurso profissional área. Vamos construir o futuro juntos!
+Desde então, tenho mergulhado diariamente nesse vasto mundo, buscando aprimorar meus conhecimentos e me tornar um profissional da cada dia melhor. Estou à procura de oportunidades para iniciar o meu percurso profissional.
     <p>- Quero uma carreira como programador BackEnd </p>
     <p>- Considero-me um programador júnior </p>
     <p>- Estou atualmente a frequentar um curso de Engenharia de Software – Bacharelado, 4° semestre</p>
